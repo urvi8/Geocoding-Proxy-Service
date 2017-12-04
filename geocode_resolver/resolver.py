@@ -5,7 +5,6 @@ import urllib, urllib2
 
 def get_env_variables():
 
-#	return os.environ.get('API_HERE'), os.environ.get('API_GMAP')
 	return os.environ.get('API_KEY')
 
 def resolve(address, API_KEY):
