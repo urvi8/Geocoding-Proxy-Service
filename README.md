@@ -8,6 +8,7 @@ urllib2, urllib, flask
 ## Used API's
 
 Geocoding Service by Google : https://developer.here.com/documentation/geocoder/topics/quick-start.html
+
 Geocoding Service by HERE: https://developers.google.com/maps/documentation/geocoding/start
 
 ## Preparation
@@ -18,8 +19,11 @@ Geocoding Service by HERE: https://developers.google.com/maps/documentation/geoc
 Get your API key for the services mentioned above. 
 
 ```export API_KEY=YOUR GMAP API KEY```
+
 ```export API_app_id=YOUR HERE API ID```
+
 ```export API_app_code=YOUR HERE API CODE```
+
 ```python main.py``` 
 
 ## Using the service
@@ -31,7 +35,11 @@ Get your API key for the services mentioned above.
 ### Returned Values
 
 ```Example Response: ```
+
 ```Latitude: ```
+
 ```Longitude: ```
+
 ```Method:  ```
+
 ```Status:  ```
