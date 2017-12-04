@@ -34,7 +34,7 @@ Get your API key for the services mentioned above.
 
 ### Returned Values
 
-```Example Response: ```
+Example Response: 
 
 ```Latitude: ```
 
