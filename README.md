@@ -7,9 +7,9 @@ urllib2, urllib, flask
 
 ## Used API's
 
-Geocoding Service by Google : [https://developer.here.com/documentation/geocoder/topics/quick-start.html]
+Geocoding Service by Google : <https://developer.here.com/documentation/geocoder/topics/quick-start.html>
 
-Geocoding Service by HERE: [https://developers.google.com/maps/documentation/geocoding/start]
+Geocoding Service by HERE: <https://developers.google.com/maps/documentation/geocoding/start>
 
 ## Preparation
 ```git clone https://github.com/urvi8/Geocoding-Proxy-Service/```
