@@ -49,7 +49,7 @@ Example Response:
 
 The general procedure to use a service by API is:
 
-1. Find the API service documentation. /n
+1. Find the API service documentation.
 2. Find out if a URL can retrieve the required data.
 3. If so, sign up for an API key for the service.
 4. Figure out the parameteres needed to include in the URL to get the required data.
